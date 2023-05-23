@@ -1,7 +1,7 @@
 <div align="center">
   <img src = "https://img.shields.io/badge/shell_script-000000.svg?style=for-the-badge&logo=gnu-bash&logoColor=green1" >
- // <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
- // <img src = "https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=green" >
+  <img src = "https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=ffff00" >
+  <img src = "https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=green" >
 </div>
 <br>
 <p align = "center">
